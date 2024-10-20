@@ -11,3 +11,14 @@ In this project, I modeled a subset of the instruction set architecture (ISA) of
 
 For detailed information and instructions, please refer to the [Project Report](Pentium_Pro_SystemC_Implemantation_Guid.pdf).
 
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/amirhyous/Pentium-Pro-ISS-Modeling.git
+   cd Pentium-Pro-ISS-Modeling
+   ```
+2. **Compile the codes:** You can compile the project using the provided Makefile:
+   ```bash
+   make
+   ```
+3. **Outout File:** After compilation, you can see the outputs in out.txt "file"
