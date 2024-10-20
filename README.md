@@ -9,4 +9,4 @@ The Intel Pentium Pro is a high-performance microprocessor designed for server a
 ## Project Description
 In this project, I modeled a subset of the instruction set architecture (ISA) of the Intel Pentium Pro Processor using C++ and the SystemC library. The implementation focuses on accurately simulating various instructions, demonstrating the capabilities and behavior of the processor architecture.
 
-For detailed information and instructions, please refer to the [Project Report](path/to/your/report.pdf).
+For detailed information and instructions, please refer to the [Project Report]([path/to/your/report.pdf](https://github.com/amirhyous/Pentium-Pro-ISS-Modeling/blob/main/Pentium%20Pro%20SystemC%20Implemantation%20Guid.pdf)).
