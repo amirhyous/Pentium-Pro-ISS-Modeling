@@ -21,4 +21,4 @@ For detailed information and instructions, please refer to the [Project Report](
    ```bash
    make
    ```
-3. **Outout File:** After compilation, you can see the outputs in out.txt "file"
+3. **Output File:** After compilation, you can see the outputs in out.txt "file"
